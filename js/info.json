@@ -1,0 +1,19 @@
+{
+    "About":{
+        "summary":"I am a Sophomore at Vellore Institute of Technology, Bhopal studying Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.",
+        "tag":"AI Enthusiast & ML Developer",
+        "city":"Bhopal",
+        "email":"bishtvaasu@gmail.com",
+        "content":"I am passionate about Machine Learning and Data Science, basically I am an AI enthusiast. I have also been exposed to Computer Vision. Currently I am exploring Web Development. I have also studied few research papers related to Machine Learning and Computer Vision"
+    },
+    "Skills":[
+        {
+            "name":"Python",
+            "progress":"80"
+        },
+        {
+            "name":"Tensorflow",
+            "progress":"70"
+        }
+    ]
+}
