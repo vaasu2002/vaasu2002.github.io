@@ -274,6 +274,6 @@
     modeIcon.classList.toggle('bi-brightness-high');
     modeIcon.classList.toggle('bi-moon');
   });
-    
+  
 
   })()

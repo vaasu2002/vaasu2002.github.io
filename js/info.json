@@ -1,8 +1,36 @@
 {
+    "Typed":[
+        "Machine Learning Specialist",
+        "Deep Learning Engineer",
+        "Data Scientist",
+        "Computer Vision Architect"
+    ],
+    "Links":[
+        {
+            "Name":"linkedin",
+            "url":"https://twitter.com/vaasubisht"
+        },
+        {
+            "Name":"twitter",
+            "url":"https://www.linkedin.com/in/vaasubisht/"
+        },
+        {
+            "Name":"github",
+            "url":"https://www.github.com/vaasu2002"
+        },
+        {
+            "Name":"instagram",
+            "url":"https://www.instagram.com/vaasubisht/"
+        },
+        {
+            "Name":"medium",
+            "url":"https://www.medium.com/vaasubisht/"
+        }
+    ],
     "About":{
         "summary":"I am a Sophomore at Vellore Institute of Technology, Bhopal studying Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.",
-        "tag":"AI Enthusiast & ML Developer",
-        "city":"Bhopal",
+        "tag":"Data Scientist & ML Developer",
+        "city":"Delhi and Bhopal",
         "email":"bishtvaasu@gmail.com",
         "content":"I am passionate about Machine Learning and Data Science, basically I am an AI enthusiast. I have also been exposed to Computer Vision. Currently I am exploring Web Development. I have also studied few research papers related to Machine Learning and Computer Vision"
     },
@@ -14,6 +42,158 @@
         {
             "name":"Tensorflow",
             "progress":"70"
+        },
+        {
+            "name":"DSA",
+            "progress":"50"
+        }
+    ],
+    "Resume":[
+        [
+            {
+                "org":"Supra Encology Pvt. Ltd.",
+                "period":"May 2022 - present",
+                "pos":"Data Science Intern",
+                "brief":"Working as a full-time Data Scientist in Supra Oncology on various NLP and CV pipelines."
+            },
+            {
+                "org":"Coding Ninjas",
+                "period":"January 2022 - present",
+                "pos":"Ninja Entrepreneur",
+                "brief":"6-month curated Campus Ambassador Internship"
+            },
+            {
+                "org":"Omdena",
+                "period":"March 2022 - April 2022",
+                "pos":"",
+                "brief":"I Worked with 50 engineers worldwide for 8 weeks to develop a species Identification model for Mosquitoes Using AI for Vectech, a technology social enterprise working to empower public health organizations in the global fight against mosquito-borne disease."
+            },
+            {
+                "org":"Feynn Labs",
+                "period":"January 2022 - March 2022",
+                "pos":"Machine Learning Intern",
+                "brief":"I did an Ideation Project with Feynn lab and now I am Team Lead for the second project in which I and my team is performing market segmentation for clients of Feynn Labs I am also working on a prototype of the Ideation Project, in which I am building a website in which small businesses can use Association rule mining and data analysis to understand purchasing patterns of their customers, which would help them to in customer retention and grow their business. In 2nd project, I and my team did AI job segmentation in India. We first web scrapped a few job sites and did clustering based on skills requirement, company, geographical location, etc."
+            }
+        ],
+        [
+            {
+                "org":"TCR Innovation",
+                "period":"December 2021 - February 2022",
+                "pos":"Deep Learning with Computer Vision Training",
+                "brief":"Learned CNN Architecture and made two projects:- \nProject 1- Breast Cancer Detection\nProject 2 - Global Wheat Detection"
+            },
+            {
+                "org":"Devtown",
+                "period":"September 2021 - December 2021",
+                "pos":"Data Science Trainee",
+                "brief":""
+            },
+            {
+                "org":"DeepLearning.AI",
+                "period":"November 2021 - November 2021",
+                "pos":"Student",
+                "brief":""
+            }
+        ],
+        [
+            {
+                "org":"Global Coding Hub",
+                "period":"March 2022 - present",
+                "pos":"Core Member",
+                "brief":"Global AI Hub is the Swiss-based leading global community for AI education and AI career opportunities."
+            }
+        ]
+    ],
+    "Projects":[
+        {
+            "domain":"ANN",
+            "projects":[
+                {
+                    "title":"Bank Churn",
+                    "desc":"Bank Churn",
+                    "url":"https://github.com/vaasu2002/PROJECTS/blob/main/Artificial%20Neural%20Network/Bank_Churn.ipynb"
+                },
+                {
+                    "title":"Teleco Customer Churn Prediction",
+                    "desc":"Teleco Customer Churn Prediction",
+                    "url":"https://github.com/vaasu2002/PROJECTS/blob/main/Artificial%20Neural%20Network/Teleco%20Customer%20Churn%20Prediction.ipynb"
+                }
+            ]
+        },
+        {
+            "domain":"ml",
+            "projects":[
+                {
+                    "title":"Blueberry Yield Prediction",
+                    "desc":"Wild blueberry yield prediction",
+                    "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Wild%20Blueberry%20Yield%20Prediction"
+                },
+                {
+                    "title":"Site Energy Use Prediction",
+                    "desc":"Site Energy Use Prediction",
+                    "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Site%20Energy%20Use%20Prediction"
+                },
+                {
+                    "title":"Patient's Survival Prediction",
+                    "desc":"Predicting Survival of Patient",
+                    "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Patient%20Survival%20Prediction"
+                },
+                {
+                    "title":"Bacterial Species Identification",
+                    "desc":"",
+                    "url":""
+                },
+                {
+                    "title":"Road Traffic Severity Classification",
+                    "desc":"Road Traffic Severity Classification",
+                    "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Road%20Traffic%20Severity%20Classification"
+                }
+            ]
+        },
+        {
+            "domain":"cv",
+            "projects":[
+                {
+                    "title":"Plant Disease Classification",
+                    "desc":"Performing hyperparameter tuning and deciding best Convolutional neural network (CNN) architecture using MONK AI to classify 39 different plant leaf images using the data gathered by Plant Village.",
+                    "url":"https://github.com/vaasu2002/Plant-Disease-Classification"
+                },
+                {
+                    "title":"Face Distance Measurement",
+                    "desc":"Face Distance Measurement",
+                    "url":"https://github.com/vaasu2002/ComputerVision/tree/main/PROJECTS/Face%20Distance%20Measurement"
+                },
+                {
+                    "title":"Wireless Volume Controller",
+                    "desc":"Wireless Volume Controller",
+                    "url":"https://github.com/vaasu2002/ComputerVision/tree/main/PROJECTS/WIRELESS%20VOLUME%20CONTROLLER"
+                },
+                {
+                    "title":"Drowsiness Alert System",
+                    "desc":"Drowsiness Alert System",
+                    "url":"https://github.com/vaasu2002/ComputerVision/tree/main/PROJECTS/Drowsiness%20Alert%20System"
+                }
+            ]
+        },
+        {
+            "domain":"nlp",
+            "projects":[
+                {
+                    "title":"Quora Insincere Questions Classification",
+                    "desc":"Transfer Learning using TF-Hub (Transformers Model and Hyper-parameter tuning",
+                    "url":"https://github.com/vaasu2002/Natural-Language-Processing/tree/main/Transfer%20Learning/Projects/Quora%20Insincere%20Questions%20Classification"
+                },
+                {
+                    "title":"Using Trax Framework for making a deep neural network for sentiment analysis",
+                    "desc":"Trax Framework , Deep Neural Network",
+                    "url":"https://github.com/vaasu2002/Trax-Framework/tree/main/Sequential%20Model/Using%20Trax%20framework%20for%20making%20a%20deep%20neural%20network%20for%20sentiment%20analysis"
+                },
+                {
+                    "title":"Sentiment Analysis with Logistic Regression",
+                    "desc":"Machine Learning (Logistic Regression)",
+                    "url":"https://github.com/vaasu2002/PROJECTS/blob/main/Natural%20Language%20Processing/Sentiment%20Analysis%20with%20Logistic%20Regression/Sentiment_Analysis_with_Logistic_Regression.ipynb"
+                }
+            ]
         }
     ]
 }

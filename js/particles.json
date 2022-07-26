@@ -27,10 +27,19 @@
     "interactivity":{
         "events":{
             "onhover":{
-                "enable":false
+                "enable":true,
+                "mode":"grab"
             },
             "onclick":{
                 "enable":false
+            },
+            "modes":{
+                "grab":{
+                    "distance":"1200",
+                    "line_linked":{
+                        "opacity":1
+                    }
+                }
             }
         }
     }
