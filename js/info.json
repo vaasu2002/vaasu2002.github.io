@@ -119,7 +119,7 @@
             "projects":[
                 {
                     "title":"Site Energy Use Prediction",
-                    "desc":"Regression Problem, CrossValidation on CatBoost, Optuna with Random Forest",
+                    "desc":"Regression Problem, CatBoostRegressor, Optuna with Random Forest",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Site%20Energy%20Use%20Prediction"
                 },
                 {
