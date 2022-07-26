@@ -78,13 +78,6 @@
       });
     };
 
-    const typedDump = (typedObj) => {
-      let typedEl = select('.typed');
-      let typedStr = typedObj.join(' , ');
-      console.log(typedStr);
-      typedEl.setAttribute('data-typed-items',typedStr)
-    };
-
     const linkDump = (linksObj) => {
       let linkHolders = select('.social-links',true);
       linkHolders.forEach(linkHolder => {        
@@ -274,9 +267,6 @@
     }
 
     let jsonDump = (jsonObj) => {
-
-      let typedObj = jsonObj.Typed;
-      typedDump(typedObj);
       
       let linksObj = jsonObj.Links;
       linkDump(linksObj);
