@@ -118,28 +118,18 @@
             "domain":"ml",
             "projects":[
                 {
-                    "title":"Blueberry Yield Prediction",
-                    "desc":"Wild blueberry yield prediction",
-                    "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Wild%20Blueberry%20Yield%20Prediction"
-                },
-                {
                     "title":"Site Energy Use Prediction",
                     "desc":"Site Energy Use Prediction",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Site%20Energy%20Use%20Prediction"
                 },
                 {
-                    "title":"Patient's Survival Prediction",
-                    "desc":"Predicting Survival of Patient",
+                    "title":"Predicting Survival of Patient",
+                    "desc":"Classification | Pre-Processing | EDA | XGB Classifier | Hyperparameter Tuning(GridSearchCV)",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Patient%20Survival%20Prediction"
                 },
                 {
-                    "title":"Bacterial Species Identification",
-                    "desc":"",
-                    "url":""
-                },
-                {
                     "title":"Road Traffic Severity Classification",
-                    "desc":"Road Traffic Severity Classification",
+                    "desc":"Explainable AI | EDA | Feature Engineering | Extra Trees Classifier | Hyperparameter Tuning(GridSearchCV) | Explainable AI",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Road%20Traffic%20Severity%20Classification"
                 }
             ]
