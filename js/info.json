@@ -119,17 +119,17 @@
             "projects":[
                 {
                     "title":"Site Energy Use Prediction",
-                    "desc":"Site Energy Use Prediction",
+                    "desc":"Regression Problem, CrossValidation on CatBoost, Optuna with Random Forest",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Site%20Energy%20Use%20Prediction"
                 },
                 {
                     "title":"Patient Survival Prediction",
-                    "desc":"Classification Problem, Algorithm - XGBoost",
+                    "desc":"Classification Problem, XGBoost, Deloyment",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Patient%20Survival%20Prediction"
                 },
                 {
                     "title":"Road Traffic Severity Classification",
-                    "desc":"Classification Problem, Algorithm - Extra Trees Classifier",
+                    "desc":"Classification Problem, Extra Trees Classifier",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Road%20Traffic%20Severity%20Classification"
                 }
             ]
