@@ -123,13 +123,13 @@
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Site%20Energy%20Use%20Prediction"
                 },
                 {
-                    "title":"Predicting Survival of Patient",
-                    "desc":"Classification | Pre-Processing | EDA | XGB Classifier | Hyperparameter Tuning(GridSearchCV)",
+                    "title":"Patient Survival Prediction",
+                    "desc":"Classification Problem, Algorithm - XGBoost",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Patient%20Survival%20Prediction"
                 },
                 {
                     "title":"Road Traffic Severity Classification",
-                    "desc":"Explainable AI | EDA | Feature Engineering | Extra Trees Classifier | Hyperparameter Tuning(GridSearchCV) | Explainable AI",
+                    "desc":"Classification Problem, Algorithm - Extra Trees Classifier",
                     "url":"https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning/Road%20Traffic%20Severity%20Classification"
                 }
             ]
