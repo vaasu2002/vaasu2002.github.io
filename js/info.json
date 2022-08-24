@@ -38,6 +38,14 @@
             "progress":"70"
         },
         {
+            "name":"Machine Learning",
+            "progress":"75"
+        },
+        {
+            "name":"Deep Learning ",
+            "progress":"65"
+        },
+        {
             "name":"DSA",
             "progress":"50"
         }
